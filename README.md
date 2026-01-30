@@ -181,3 +181,17 @@ Clear KPI visibility
 
 Storytelling through visuals
 Customer churn is driven primarily by engagement and tenure rather than geography or credit risk. Customers with fewer products, no credit card, and shorter tenure show the highest churn risk. Improving early engagement, increasing product adoption, and leveraging credit cards as retention tools can significantly reduce churn and improve customer lifetime value.
+Insight 1 — Customers with fewer products show higher churn
+Customers with only 1 product have weaker “relationship depth” with the bank. Multi-product customers are more integrated (payments, credit, savings), which increases switching cost and habit formation—reducing churn risk.
+
+Insight 2 — Credit card holders are more active
+Credit cards increase transaction frequency and touchpoints (monthly billing, rewards, usage behavior). More touchpoints = higher engagement, and engagement is one of the strongest leading indicators of retention.
+
+Insight 3 — No significant credit score difference by geography
+ANOVA suggests credit score averages across France/Germany/Spain are not statistically different, implying risk quality is broadly consistent across regions. Churn drivers are more likely behavioral (products, activity, tenure) than purely geographic.
+
+Insight 4 — Early-tenure customers have higher churn risk
+The highest churn typically occurs before the customer forms trust and routine usage. Early-tenure customers haven’t built switching friction yet, so onboarding and early cross-sell/activation programs have the highest retention ROI.
+
+So what? (Executive summary)
+Churn is primarily driven by engagement and relationship depth, not geography. Retention strategy should prioritize early-tenure activation, increasing product adoption, and driving credit card usage as an engagement lever.
